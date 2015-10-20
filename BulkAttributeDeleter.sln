@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkAttributeDeleter", "BulkAttributeDeleter\BulkAttributeDeleter.csproj", "{B5B94346-1C8A-4E49-B5D7-C491ABF36B8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5193F14-0DB2-4545-9003-B71700D99FA1}"
+	ProjectSection(SolutionItems) = preProject
+		BulkAttributeDeleter\deleteData.xml = BulkAttributeDeleter\deleteData.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B94346-1C8A-4E49-B5D7-C491ABF36B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B94346-1C8A-4E49-B5D7-C491ABF36B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B94346-1C8A-4E49-B5D7-C491ABF36B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B94346-1C8A-4E49-B5D7-C491ABF36B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

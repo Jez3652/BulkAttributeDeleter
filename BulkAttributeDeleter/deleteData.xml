@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeleteData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <entityName>new_precontractform</entityName>
+  <fieldList>
+    <string>new_isabeaconpub</string>
+  </fieldList>
+</DeleteData>
